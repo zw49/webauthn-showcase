@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "base64-arraybuffer": "^1.0.2",
+    "express": "^4.19.2",
+    "fido2-lib": "^3.5.3"
+  }
+}
